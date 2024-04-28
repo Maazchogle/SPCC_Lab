@@ -1,7 +1,4 @@
-/*
-Name: Maaz Aslam Chogle                                               Batch: 1
-Roll no.: 21CO19                                                   Sem: VI
-*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
